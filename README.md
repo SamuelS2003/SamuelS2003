@@ -18,14 +18,14 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy playing basketball as well as gaming. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project A:** Customer Revenue Leakage → Revenue
 - **Project B:** Creating an interactive marketing dashboard in Power BI.
 
 ## 🌱 Currently Learning 
