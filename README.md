@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy playing basketball as well as gaming. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://samuelsholademiportfolio.notion.site/Hey-I-m-Samuel-Welcome-to-my-portfolio-dea9755ce0988302816e01848e99e5e6))
+### [🏆 Check Out My Full Portfolio Website](https://samuelsholademiportfolio.notion.site/Hey-I-m-Samuel-Welcome-to-my-portfolio-dea9755ce0988302816e01848e99e5e6)
       
 ## 🔭 What I'm Currently Working On 
 
